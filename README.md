@@ -1,10 +1,13 @@
 
 ### 数据集选择
 * 本实验选择wine_benchmarks数据集、abalone_benchmarks数据集，下载地址：
+
   [Anomaly Detection Meta-Analysis Benchmarks](https://ir.library.oregonstate.edu/concern/datasets/47429f155?locale=en)
+
   将数据集文件放在data/目录下
 
 ### 运行环境
+```
 Package            Version
 ------------------ ------------
 attrs              19.3.0
@@ -57,6 +60,7 @@ Werkzeug           0.12.2
 wheel              0.33.6
 xlrd               1.2.0
 zipp               3.1.0
+```
 
 ### 代码使用说明
 见代码内注释
